@@ -89,7 +89,13 @@ function SimpsonCharacterForm() {
           </Col>
         </Row>
       </Content>
-      <Footer style={{ textAlign: 'center' }}>challenger front end 2020</Footer>
+      <Footer style={{ textAlign: 'center' }}>
+        Javachallengers -{' '}
+        <a href="https://github.com/rafadelnero/challenger-front-end">
+          challenger front end
+        </a>{' '}
+        - 2020
+      </Footer>
     </Layout>
   );
 }
